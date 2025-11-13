@@ -1,7 +1,10 @@
-# SC-Project
+# SC-Project-Secure-BEAM
+
 Semiconductor Physics project for Fall Semester 2025 (1st sem)
 
 Handling Faculty: Dr. Jitendra Narayana Dash
+
+BEAM - Bidirectional Encoding with audio visual messaging 
 
 Students:
 Asmi S Thirunarayan        25BEC1584
